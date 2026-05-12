@@ -17,8 +17,8 @@ This repository contains Excel-based financial models developed for financial an
 - Designed for efficient and accurate financial outputs
 
 ### 3. Integrated 5-Year Financial Projection Model
--Built with interconnected financial statements and forecasting assumptions
--Includes projected income statements, balance sheets, and cash flow statements
--Calculates break-even point, ROI, and TIR/IRR metrics
--Designed for long-term business performance and investment analysis
--Supports scenario-based financial planning and profitability evaluation
+- Built with interconnected financial statements and forecasting assumptions
+- Includes projected income statements, balance sheets, and cash flow statements
+- Calculates break-even point, ROI, and TIR/IRR metrics
+- Designed for long-term business performance and investment analysis
+- Supports scenario-based financial planning and profitability evaluation
